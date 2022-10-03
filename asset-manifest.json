@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tt-Aigen/static/css/main.be3dd068.css",
+    "main.js": "/tt-Aigen/static/js/main.ecd75493.js",
+    "static/js/787.86c35408.chunk.js": "/tt-Aigen/static/js/787.86c35408.chunk.js",
+    "static/media/confirm.png": "/tt-Aigen/static/media/confirm.36aeace2c54ea0e35b6a.png",
+    "index.html": "/tt-Aigen/index.html",
+    "main.be3dd068.css.map": "/tt-Aigen/static/css/main.be3dd068.css.map",
+    "main.ecd75493.js.map": "/tt-Aigen/static/js/main.ecd75493.js.map",
+    "787.86c35408.chunk.js.map": "/tt-Aigen/static/js/787.86c35408.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be3dd068.css",
+    "static/js/main.ecd75493.js"
+  ]
+}
