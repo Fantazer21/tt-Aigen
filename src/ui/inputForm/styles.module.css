@@ -1,0 +1,30 @@
+.LeftSection {
+    display: flex;
+    flex-direction: column;
+}
+.InputForm {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 300px;
+    border-radius:20px;
+    background: #ebe7e7;
+    margin: 20px;
+    padding: 10px;
+}
+.ButtonFind {
+    width: 180px;
+    margin-top: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.FilteredData {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    border-radius:20px;
+    background: #ebe7e7;
+    margin: 20px;
+    padding: 10px;
+}
